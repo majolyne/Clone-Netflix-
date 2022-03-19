@@ -49,7 +49,7 @@ header nav a:hover {
 
  .matriz-curricular{
      font-size: 18px;
-     background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/enem-inscricoes.jpg');
+     background-image: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/capa.png');
      
      height: 600px;
      background-size: cover;
