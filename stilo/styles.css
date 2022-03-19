@@ -27,6 +27,7 @@ header .container{
     align-items:center;
     font-size: 15px;
     justify-content: space-between;
+  
 
 }
 
@@ -45,11 +46,18 @@ header nav a{
 header nav a:hover {
     color: #ffff;
 }
+
+.icones-header i{
+    padding: 5px;
+    cursor: pointer;
+    margin-left: 7px;
+    font-size: 20px;
+ }
  /*parte principal*/
 
  .matriz-curricular{
      font-size: 18px;
-     background-image: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/capa.png');
+     background-image: url("../img/capaeditada.png");
      
      height: 600px;
      background-size: cover;
